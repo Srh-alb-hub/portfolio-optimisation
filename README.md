@@ -5,7 +5,7 @@
 
 ---
 
-## 👥 Membres du groupe
+## 👥 Auteur du projet 
 
 | Nom | Université |
 |-----|-----------|
