@@ -5,7 +5,7 @@
 
 ---
 
-## 👥 Concepteur du projet 
+## 👥 Conceptrice du projet 
 
 | Nom | Université |
 |-----|-----------|
