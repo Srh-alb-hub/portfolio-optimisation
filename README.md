@@ -5,7 +5,7 @@
 
 ---
 
-## 👥 Auteur du projet 
+## 👥 Concepteur du projet 
 
 | Nom | Université |
 |-----|-----------|
