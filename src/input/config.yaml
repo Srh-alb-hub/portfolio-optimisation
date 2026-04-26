@@ -1,0 +1,36 @@
+# src/input/config.yaml
+# Paramètres métier de l'application d'optimisation de portefeuille.
+
+# Données historiques
+date_debut: "2018-01-01"
+
+# Fichiers
+referentiel_secteurs_path: "referentiel_secteurs.csv"
+output_pdf_path: "Rapport_Client.pdf"
+
+# Graphiques
+graph_prix_nominaux: "1_prices.png"
+graph_prix_normalises: "2_scaled.png"
+graph_correlation: "3_corr.png"
+graph_secteurs: "4_sector.png"
+graph_monetaire: "2_monetary.png"
+graph_frontiere: "5_frontier.png"
+
+# Monte Carlo
+sim_runs_default: 1000
+
+# Profil investisseur
+seuil_volatilite_equilibre: 0.25
+
+# Traductions secteurs Yahoo Finance -> français
+traductions_secteurs:
+  Technology: "Technologie"
+  Financial Services: "Finance"
+  Consumer Cyclical: "Luxe / Consommation"
+  Consumer Defensive: "Consommation de base"
+  Healthcare: "Santé"
+  Energy: "Énergie"
+  Industrials: "Industrie"
+  Communication Services: "Communications"
+  Basic Materials: "Matériaux de base"
+  Real Estate: "Immobilier"
