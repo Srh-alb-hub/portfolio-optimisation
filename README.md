@@ -10,8 +10,6 @@
 | Nom | Université |
 |-----|-----------|
 | Sarah Alibay | Paris 1 Panthéon-Sorbonne |
-| Alexandra Panyushkina | Paris 1 Panthéon-Sorbonne |
-| Shahd Mohamed Ibrahim | Paris 1 Panthéon-Sorbonne |
 
 ---
 
